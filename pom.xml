@@ -39,7 +39,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:anandanubhav/sfg-pet-clinic</developerConnection>
+        <developerConnection>scm:git:git@github.com:anandanubhav/sfg-pet-clinic.git</developerConnection>
         <tag>yes</tag>
     </scm>
 
