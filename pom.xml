@@ -40,7 +40,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:anandanubhav/sfg-pet-clinic.git</developerConnection>
-        <tag>yes</tag>
+        <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 
 </project>
